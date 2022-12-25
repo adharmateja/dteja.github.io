@@ -1,0 +1,108 @@
+h2{
+
+	color: white;
+	font: "Arial";
+	text-align: center;
+	font-size: 20px;
+}
+
+
+title{
+	color: blue;
+}
+
+
+body{
+
+	background-color: antiquewhite;
+	background-size: cover;
+
+}
+
+
+nav{
+	font-size: 20px;
+	text-align: center;
+	border-image: "pinkapple.jpeg";
+    background-color: #626262;;
+    color: #fff;
+    height: 20px;
+    font-weight: 200;
+    padding: 20px;
+    color: white ;
+    
+}
+
+a{
+	color: white; text-decoration: none;
+
+}
+
+
+.dharma
+{
+	font-size: 30px;
+	color: blue;
+}
+
+#teja{
+	font-size: 20px;
+	color: red;
+}
+
+
+.active
+{
+	font-size: 40px;
+	color: green;
+}
+
+
+.HE
+{
+	font-size: 40px;
+	color: yellow;
+}
+
+
+
+#divteja
+{
+
+
+	font-size: 100px;
+	color: purple;
+}
+
+
+img{
+	width:450px;
+	height: 450px;
+	transition: all 1s;
+	-webkit-box-shadow: 4px 4px 5px #999999
+
+}
+
+
+img:hover{
+
+	transform: scale(1.1);
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:  center;
+	gap : 10px
+}
+
+h1{
+
+font-family: fantasy;
+font-size: 3em;
+border-bottom: 3px solid blue;
+border-right: 2px solid blue;
+width: 400px;
+box-shadow: 4px 4px 5px #888888	
+
+}

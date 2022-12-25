@@ -1,0 +1,7 @@
+img{
+	width:400px;
+	height: 100px;
+	transition: all 1s;
+	-webkit-box-shadow: 4px 4px 5px #999999
+
+}
